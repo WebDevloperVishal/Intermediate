@@ -1,21 +1,21 @@
 [{
-    "name":"Suraj",
-    "age":21,
+    "name":"Vishal",
+    "age":20,
     "isMarried":null,
     "address":{
-        "city":"Noida",
-        "nearBy":"Metro Station"
+        "city":"Thane",
+        "nearBy":"Thane"
     },
     "hobbies":["Gym" , "Walking" , "Coffee"]
-  
+     
 },
 {
     "name":"Rohit",
     "age":22,
     "isMarried":null,
     "address":{
-        "city":"Noida",
-        "nearBy":"Metro Station"
+        "city":"Thane",
+        "nearBy":"Thane"
     },
     "hobbies":["Gym" , "Walking" , "Coffee"]
 }
